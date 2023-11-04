@@ -28,7 +28,7 @@ dm-tree
 
 # ========== Probabilistic programming ==========
 pymc3
-tensopiprflow_probability
+tensorflow_probability
 statsmodels
 
 # ========== System dependencies ==========
