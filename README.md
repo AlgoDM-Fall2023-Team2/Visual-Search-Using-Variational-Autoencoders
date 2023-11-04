@@ -14,11 +14,7 @@ This repository includes a Streamlit application that enables users to upload an
 
 ### Instructions
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your_username/your_repository.git
-   cd your_repository
+1. Clone the repository
 2. Install the required dependencies:
 
     ```bash
