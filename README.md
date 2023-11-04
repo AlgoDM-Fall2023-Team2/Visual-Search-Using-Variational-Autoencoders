@@ -1,7 +1,7 @@
 # Variational Autoencoders (VAE) and Image Reconstruction
 
 ## Important Links
-1. [Streamlit Application](https://visual-search-variational-auto-encoder.streamlit.app/)
+1. [Streamlit Application](https://visual-search-using-variational-autoencoders.streamlit.app/)
 2. [Codelabs Document](https://codelabs-preview.appspot.com/?file_id=11wvYnPBgPRSQ2Vl6WJofNutzmoaWP9N-PE-SW4ksNMQ#0)
 
 ## Introduction to Variational Autoencoders (VAE)
