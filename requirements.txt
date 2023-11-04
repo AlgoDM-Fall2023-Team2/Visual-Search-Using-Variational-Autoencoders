@@ -8,6 +8,7 @@ seaborn
 pandas
 lz4
 scikit-learn
+Cmake
 
 # ========== Deep learning ==========
 torch
