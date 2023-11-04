@@ -11,7 +11,7 @@ from PIL import Image
 
 st.set_page_config(layout="wide", page_title="INFO7374: Algorithmic Marketing")
 st.title("INFO7374: Assignment 3 - Variational Auto Encoder")
-#st.subheader("Group 1 (Team 2): Adit Bhosale, Sowmya Chatti, Vasundhara Sharma")
+st.subheader("Group 1 (Team 2): Adit Bhosale, Sowmya Chatti, Vasundhara Sharma")
 
 st.header("Visual Search Using Variational Autoencoders")
 

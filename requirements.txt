@@ -1,7 +1,7 @@
 # ========== Common ==========
 # numpy
 tqdm
-functools
+#functools
 pyyaml
 matplotlib
 seaborn
